@@ -17,8 +17,8 @@ I will change my "dollar" and keep using new commands.
 
 ## Git Collaboration
 ![git](https://github.com/artellos747/kottans-frontend/raw/master/task2/task211.png)
-![git](https://github.com/artellos747/kottans-frontend/raw/master/task1/task212.png)
-![github](https://github.com/artellos747/kottans-frontend/raw/master/task1/task22.png)
+![git](https://github.com/artellos747/kottans-frontend/raw/master/task2/task212.png)
+![github](https://github.com/artellos747/kottans-frontend/raw/master/task2/task22.png)
 After the "Git and Github", this task was quiet easy. 
 Refreshed my knowledge, became more confident in Pull Requests.
 New info - git log's flags and other sweet stuff with it. ( f.i. Grep, shortlog, author).
