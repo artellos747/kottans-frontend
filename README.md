@@ -23,3 +23,17 @@ After the "Git and Github", this task was quiet easy.
 Refreshed my knowledge, became more confident in Pull Requests.
 New info - git log's flags and other sweet stuff with it. ( f.i. Grep, shortlog, author).
 
+## Intro to HTML and CSS
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task3/task31.png)
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task3/task321.png)
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task3/task322.png)
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task3/task323.png)
+Nearly all information was learnt in the spring, so it was a good task to remind 
+the basic html and css core. 
+As for the new material - it was useful for me to sort out main pillars of css - inheritance and cascade. (their priorities, etc).
+Undoubtedly I will use all of that. 
+
+
+ 
+
+
