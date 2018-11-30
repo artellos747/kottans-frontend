@@ -33,6 +33,15 @@ the basic html and css core.
 As for the new material - it was useful for me to sort out main pillars of css - inheritance and cascade. (their priorities, etc).
 Undoubtedly I will use all of that. 
 
+## Responsive Web Design
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task4/task41.png)
+![html css](https://github.com/artellos747/kottans-frontend/raw/master/task4/task42.png)
+"what was new to you" - all the first task, because before I only tried to work ( responsive) with a bootstrap. So all moves with tables and other was really interesting and useful!
+"what surprised you" - that I passed 21/24 flexbox froggy before (this very year)
+"what you intend to use in future" - % instead of px. Flex. And i like the way to make my table responsive. Easy and fast)
+
+
+
 
  
 
