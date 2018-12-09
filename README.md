@@ -40,6 +40,17 @@ Undoubtedly I will use all of that.
 "what surprised you" - that I passed 21/24 flexbox froggy before (this very year)
 "what you intend to use in future" - % instead of px. Flex. And i like the way to make my table responsive. Easy and fast)
 
+## JS basics
+![js basic](https://github.com/artellos747/kottans-frontend/raw/master/task5_task_js_basics/task51.png)
+![js basic](https://github.com/artellos747/kottans-frontend/raw/master/task5_task_js_basics/task52.png)
+![js basic](https://github.com/artellos747/kottans-frontend/raw/master/task5_task_js_basics/task53.png)
+After this task i realized that i have some background)
+1-st part - nothing new ( i had studied js on learnjavascript, unfortunalely i hadn't finished learnjavascript when i started this course)
+2-nd part was the most interesting. It took a lot of efforts. My brain exploded time to time. Especially when i tried to make some super algorythm (when i didn't realize that js provides regular expressions.....). I suppose i will get back here for other exercises. Really useful. (although it takes lots of time and efforts)
+3-rd part... well here i realized that i had had a background before i started this course. Sorting - 4 years ago. Search 1 year ago. Stack etc - near 2 years ago. Graph...i have passed grapth theory that took 0.5 year ( or 1 year, don't remember exactly). It was interesting to see implementation, but for deep research it's not enough at all.
+
+
+
 
 
 
